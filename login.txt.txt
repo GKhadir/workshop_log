@@ -1,1 +1,2 @@
 email & password
+password & name
